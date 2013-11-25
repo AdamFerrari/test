@@ -1,1 +1,1 @@
-This is a test, on branch1
+This is a test, which was updated on a branch
